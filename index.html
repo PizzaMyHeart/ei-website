@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">  
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<title>UCL MedSoc Enterprise & Innovation</title>
+		<meta name="description" content="${2}">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="/css/normalize.css" type="text/css">
+		<link rel="stylesheet" href="/css/main.css" type="text/css">
+		<link rel="stylesheet" href="/css/bulma.min.css" type="text/css">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+		<script src="/js/contact.js"></script>
+	</head>
+	<body>
+		<section class="hero is-primary is-medium">
+  			<div class="hero-head">
+    			<nav class="navbar">
+      				<div class="container">
+        				<div class="navbar-brand">
+          					<a class="navbar-item" href="/">
+           						<img src="/img/logo_word_black.png" alt="Logo">
+          					</a>
+          					<span class="navbar-burger burger" data-target="navbarMenuHeroA">
+            					<span></span>
+            					<span></span>
+            					<span></span>
+          					</span>
+        				</div>
+        				<div id="navbarMenuHeroA" class="navbar-menu">
+          					<div class="navbar-end">
+            					<span class="navbar-item">
+              						<a href="/" class="is-active">
+                						<span class="icon">
+                  							<i class="fas fa-home"></i>
+                						</span>
+              						</a>
+            					</span>
+            					<a class="navbar-item" href="about.html">About Us</a>
+            					<a class="navbar-item" href="events.html">Events</a>
+            					<a class="navbar-item" href="blog.html">Blog</a>
+            					<button class="navbar-item is-primary button" id="show-modal">
+            						Contact Us
+            					</button>
+          					</div>
+        				</div>
+      				</div>
+    			</nav>
+  			</div>
+
+  			<div class="hero-body">
+    			<div class="container has-text-centered">
+      				<h1 class="title">UCL MedSoc Enterprise & Innovation</h1>
+      				<h2 class="subtitle">A UCL Medical Society Sub-section</h2>
+    			</div>
+  			</div>
+		</section>
+		<div class="modal" id="contact-modal">
+			<div class="modal-background" id="modal-background"></div>
+			<div class="modal-content">
+				<div>Have questions or suggestions? Drop us a message!</div>
+				<div class="field">
+				  <label class="label">Name</label>
+				  <div class="control">
+				    <input class="input" type="text" placeholder="Text input">
+				  </div>
+				</div>
+
+
+				<div class="field">
+			  		<label class="label">Email</label>
+			  		<div class="control has-icons-left has-icons-right">
+			    		<input class="input is-danger" type="email" placeholder="Email input" value="hello@">
+			    		<span class="icon is-small is-left">
+			      			<i class="fas fa-envelope"></i>
+			    		</span>
+			    		<span class="icon is-small is-right">
+			      			<i class="fas fa-exclamation-triangle"></i>
+			    		</span>
+			  		</div>
+			  		<p class="help is-danger">This email is invalid</p>
+				</div>
+
+				<div class="field">
+				  <label class="label white">Subject</label>
+				  <div class="control">
+				    <div class="select">
+				      <select>
+				        <option>Select dropdown</option>
+				        <option>With options</option>
+				      </select>
+				    </div>
+				  </div>
+				</div>
+
+				<div class="field">
+				  <label class="label">Message</label>
+				  <div class="control">
+				    <textarea class="textarea" placeholder="Textarea"></textarea>
+				  </div>
+				</div>
+
+
+				<div class="field is-grouped">
+				  <div class="control">
+				    <button class="button is-link">Submit</button>
+				  </div>
+				</div>
+			</div>
+			<button class="modal-close is-large" aria-label="close" id="close-modal"></button>
+		</div>
+	</body>
+</html>
