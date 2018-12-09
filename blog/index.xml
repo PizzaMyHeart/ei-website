@@ -2,30 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on UCL MedSoc E&amp;I</title>
-    <link>/ei-website/blog/</link>
+    <link>/blog/</link>
     <description>Recent content in Blogs on UCL MedSoc E&amp;I</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/ei-website/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>3 Dec 2018: This week in medical enterprise and innovation</title>
+      <link>/blog/2018-12-03/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-12-03/</guid>
+      <description>New National Locator Service links paramedics to shared care record NHS Digital has launched a new service allowing emergency medical personnel to access shared care records when called to a mental health patient in distress. By sharing patient’s crisis plan. it aims to allow paramedics to direct patients to more appropriate care setting as community-based care may be more suitable than A&amp;amp;E for some patients.
+via: https://www.digitalhealth.net/2018/11/new-national-locator-service-paramedics-shared-care-records/
+Vitality’s Apple Watch initiative leads to sustained physical activity increase A large-scale study of an Apple watch incentive programme from insurerer Vitality, coverying 400,000 people has recorded sustained 34% increase in physical activity.</description>
+    </item>
+    
+    <item>
       <title>24 Nov 2018: This week in medical enterprise and innovation</title>
-      <link>/ei-website/blog/2018-11-24/</link>
+      <link>/blog/2018-11-24/</link>
       <pubDate>Sat, 24 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ei-website/blog/2018-11-24/</guid>
+      <guid>/blog/2018-11-24/</guid>
       <description>No changes to data sharing as Streams absorbed by Google A spokesperson from Royal Free along with Dr Dominic King, Medical Director at Google DeepMind, have given assurances that no changes to data sharing will occur as a result of the move of the Streams team to Google. As per King, “At this stage our contracts have not moved to Google and nothing has changed in terms of where the data we process is stored.</description>
     </item>
     
     <item>
       <title>18 Nov 2018: This week in medical enterprise and innovation</title>
-      <link>/ei-website/blog/2018-11-18/</link>
+      <link>/blog/2018-11-18/</link>
       <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ei-website/blog/2018-11-18/</guid>
+      <guid>/blog/2018-11-18/</guid>
       <description>DeepMind Streams team to join Google DeepMind has announced that the team behind their patient tracking application Streams, notably trialled at the Royal Free hospital to detect AKIs, has been moved over to Google. The aim seems to be scaling the technology behind Streams to facilitate Google’s healthcare pursuits on a larger scale.
 via https://deepmind.com/blog/scaling-streams-google/
 UCL trusts to trial respiratory rate monitoring device UCLH, Royal Free and Whittington trusts along with Basildon and Thurrington Hospitals are set to trial a new device for the monitoring of patients’ respiratory rate.</description>
@@ -33,10 +44,10 @@ UCL trusts to trial respiratory rate monitoring device UCLH, Royal Free and Whit
     
     <item>
       <title>GIANT Health Event Is Looking For Volunteers.</title>
-      <link>/ei-website/blog/2018-11-13/</link>
+      <link>/blog/2018-11-13/</link>
       <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ei-website/blog/2018-11-13/</guid>
+      <guid>/blog/2018-11-13/</guid>
       <description>Giant Health Event is looking for volunteers! GIANT Health Event, whose incredibly inspirational founder Barry Shrier you might remember from our past conferences, is looking for volunteers! It&amp;rsquo;s coming up 21-22 November - check out this message from Barry&amp;rsquo;s team and apply:
 Calling all students and recent graduates, be a part of running Europe’s largest, and most valuable, international healthcare tech innovation event.
 Sign up here: https://form.jotformeu.com/GiantHealt…/conference-maker-team</description>
@@ -44,29 +55,29 @@ Sign up here: https://form.jotformeu.com/GiantHealt…/conference-maker-team</de
     
     <item>
       <title>11 Nov 2018: This week in medical enterprise and innovation</title>
-      <link>/ei-website/blog/2018-11-11/</link>
+      <link>/blog/2018-11-11/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ei-website/blog/2018-11-11/</guid>
+      <guid>/blog/2018-11-11/</guid>
       <description>Glaucoma drainage device uses magnetic field for self-cleaning Glaucoma is a common eye condition in which the optic nerve is damaged, usually due to the buildup of fluid in the front part of the eye. A prototype of a new drainage device may improve the durability of the surgical implants as they currently have limited lifespan due to a buildup of microorganisms. An externally applied magnetic field can break the blockage apart as well as vary flow resistance, which will allow for customerised treatment of glaucoma.</description>
     </item>
     
     <item>
       <title>£1000 Prize For Clinical Electives In Digital Health</title>
-      <link>/ei-website/blog/2018-11-06/</link>
+      <link>/blog/2018-11-06/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ei-website/blog/2018-11-06/</guid>
+      <guid>/blog/2018-11-06/</guid>
       <description>Prize for Clinical Electives in Digital Health Heads up clinical students! In case you missed our update on the weekly MedSoc bulletin: there&amp;rsquo;s a new prize available for healthtech-related electives! Dr Harpreet Sood, Associate Chief Clinical Information Officer of NHS England, together with BCS Health and Care launched a £1000 prize for clinical electives/projects in Health IT/Digital Health.
 You can apply by submitting a single page CV and a 500-word abstract along with a short video pitch.</description>
     </item>
     
     <item>
       <title>4 Nov 2018: This week in medical enterprise and innovation</title>
-      <link>/ei-website/blog/2018-11-04-2/</link>
+      <link>/blog/2018-11-04-2/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ei-website/blog/2018-11-04-2/</guid>
+      <guid>/blog/2018-11-04-2/</guid>
       <description>The dogma of neurology has long been a dark cloud over patients with spinal cord injury: CNS neurons do not regenerate. Results achieved by a Swiss team, recently published in Nature, shine some light through the cloud. Their approach of targeted electrical stimulation seems to enable patients to regain control of muscles they have not been able to control for years following their injury.
 via Forbes: https://www.forbes.com/sites/matthewherper/2018/11/01/swiss-startup-aims-to-help-paralyzed-people-walk/
 Clinical students will be all too familiar with the age-old IT issues that seem to plague just about every clinic they have sat in.</description>
@@ -74,10 +85,10 @@ Clinical students will be all too familiar with the age-old IT issues that seem 
     
     <item>
       <title>Hello World!</title>
-      <link>/ei-website/blog/2018-11-04/</link>
+      <link>/blog/2018-11-04/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/ei-website/blog/2018-11-04/</guid>
+      <guid>/blog/2018-11-04/</guid>
       <description>Hello All! The committee has been hard at work planning events and improvements for the academic year, and we are glad to be sharing some of those with you today!
 In the first term, our events will revolve around firstly showcasing successful startups and having their founders to come share their journeys, offering advice to anyone thinking about entrepreneurship in the medical field. Secondly, we&amp;rsquo;ll be thinking about medical apps - what exactly is their use, what kind of apps have found success and how can one go about creating their own app to cover a use case they&amp;rsquo;re passionate about?</description>
     </item>

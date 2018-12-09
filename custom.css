@@ -5,7 +5,7 @@
 }
 
 .margin-bottom {
-	margin-bottom: 40px;
+	margin-bottom: 90px;
 }
 
 .bottom-shadow {
@@ -14,8 +14,67 @@
 	box-shadow: 0px 3px 0px 0px rgba(219,210,219,1);
 }
 
+a {
+	transition: all 0.3s ease-out;
+	-webkit-transition: all 0.3s ease-out;
+	-moz-transition: all 0.3s ease-out;
+}
+
+a.navbar-item {
+	font-family: 'Nunito Sans', sans-serif;
+}
+
 a:hover {
 	-webkit-box-shadow: 0px 3px 0px 0px rgba(219,210,219,1);
 	-moz-box-shadow: 0px 3px 0px 0px rgba(219,210,219,1);
 	box-shadow: 0px 3px 0px 0px rgba(219,210,219,1);
+}
+
+.orange {
+	background-color: #FFB000;
+}
+
+#logo {
+	max-width: 300px;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	animation: logo-slidein 1s linear;
+}
+
+@keyframes logo-slidein {
+	from {
+		margin-left: -50%;
+		opacity: 0;
+	}
+
+	to {
+		margin-left: 0%;
+		opacity: 1;
+	}
+}
+
+.header-slidein {
+	overflow: hidden;
+	animation-duration: 1.5s;
+	animation-name: header-slidein;
+}
+
+@keyframes header-slidein {
+	from {
+		margin-top: 30%;
+		opacity: 0;
+	}
+
+	to {
+		margin-top: 0%;
+		opacity: 1;
+	}
+} 
+
+.call-to-action {
+	background-color: #FF0083;
+	padding: 8px;
+	color: white;
+	border-radius: 8px;
 }
